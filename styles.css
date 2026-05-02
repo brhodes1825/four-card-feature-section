@@ -69,5 +69,8 @@ body {
 	width: 62.5rem;
 	height: 70%;
 	display: flex;
+	gap: 1rem;
 }
+
+
 
