@@ -76,24 +76,27 @@ body {
 .supervisor {
 	border-radius: .25rem;
 	border-top: 4px solid var(--cyan);
-	padding: .5rem;
+	padding: 1rem;
 	margin: 4rem 0;
 }
 
 .supervisor p:first-of-type {
 	font-size: 1rem;
+	font-weight: 600;
 	color: var(--gray500);
 	text-align: left;
 }
 
 .supervisor p:last-of-type {
-	font-size: .938rem;
+	font-size: .8rem;
+	font-weight: 200;
 	color: var(--gray500);
 	text-align: left;
+	margin-bottom: 1rem;
 }
 
 .supervisor img {
-	width: 2rem;
-	height: 2rem;
-	margin-right: -3rem;
+	width: 3rem;
+	height: 3rem;
+	margin-right: -10rem;
 }
