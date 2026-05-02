@@ -42,6 +42,29 @@ body {
 	height: 30%;
 }
 
+.info p:first-of-type {
+	font-size: 2rem;
+	font-weight: 200;
+	color: var(--gray500);
+	text-align: center;
+	margin-bottom: 1rem;
+}
+
+.info p:nth-of-type(2) {
+	font-size: 2rem;
+	font-weight: 600;
+	color: var(--gray500);
+	text-align: center;
+	margin-bottom: 1.2rem;
+}
+
+.info p:last-of-type {
+	font-size: .938rem;
+	font-weight: 400;
+	color: var(--gray500);
+	text-align: center;
+}
+
 .cards {
 	width: 62.5rem;
 	height: 70%;
