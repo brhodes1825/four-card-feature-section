@@ -125,7 +125,6 @@ body {
 	font-weight: 600;
 	color: var(--gray500);
 	text-align: left;
-	margin-right: 2rem;
 }
 
 .team-builder p:last-of-type {
@@ -133,17 +132,13 @@ body {
 	font-weight: 200;
 	color: var(--gray500);
 	text-align: left;
-	padding-right: 4rem;
-	margin-right: 1rem
-	margin-bottom: 1rem;
+	padding-right: 3rem;
 }
 
 .team-builder img {
 	width: 3rem;
 	height: 3rem;
-	margin-top: 0;
-	margin-right: .0;
-	margin-bottom: .5rem;
+	margin-top: 1rem;
 	margin-left: 10rem;
 }
 
