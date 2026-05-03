@@ -87,7 +87,6 @@ body {
 	font-weight: 600;
 	color: var(--gray500);
 	text-align: left;
-	margin-right: 2rem;
 }
 
 .supervisor p:last-of-type {
@@ -95,7 +94,8 @@ body {
 	font-weight: 200;
 	color: var(--gray500);
 	text-align: left;
-	margin-right: 3rem;
+	padding-right: 1rem;
+	margin-right: 2rem;
 	margin-bottom: 1rem;
 }
 
@@ -116,7 +116,7 @@ body {
 	border-radius: .25rem;
 	border-top: 4px solid var(--red);
 	padding: 1rem;
-/*	margin: 4rem 0; */
+	margin: 1rem 0;
 	box-shadow: 0px 4px 22px -3px rgba(175, 177, 201, 0.70);
 }
 
@@ -133,8 +133,8 @@ body {
 	font-weight: 200;
 	color: var(--gray500);
 	text-align: left;
-	padding-right: 1rem;
-	margin-right: 2rem
+	padding-right: 2rem;
+	margin-right: 1rem
 	margin-bottom: 1rem;
 }
 
@@ -160,7 +160,6 @@ body {
 	font-weight: 600;
 	color: var(--gray500);
 	text-align: left;
-/*	margin-right: 2rem; */
 }
 
 .karma p:last-of-type {
@@ -168,7 +167,8 @@ body {
 	font-weight: 200;
 	color: var(--gray500);
 	text-align: left;
-	margin-right: 2rem;
+	padding: 1rem;
+	margin-right: 1rem;
 	margin-bottom: 1rem;
 }
 
@@ -194,7 +194,6 @@ body {
 	font-weight: 600;
 	color: var(--gray500);
 	text-align: left;
-	margin-right: 2rem;
 }
 
 .calculator p:last-of-type {
@@ -202,7 +201,8 @@ body {
 	font-weight: 200;
 	color: var(--gray500);
 	text-align: left;
-	margin-right: 2rem;
+	padding-right: 1rem;
+	margin-right: 1rem;
 	margin-bottom: 1rem;
 }
 
