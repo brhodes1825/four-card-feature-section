@@ -79,7 +79,7 @@ body {
 	border-top: 4px solid var(--cyan);
 	padding: 1rem;
 	margin: 4rem 0;
-	box-shadow: 0 1px 10px 5px hsl(212, 6%, 44%);
+	box-shadow: 3px 5px 20px 1px #9B9592;;
 }
 
 .supervisor p:first-of-type {
