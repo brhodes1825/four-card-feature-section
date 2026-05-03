@@ -75,6 +75,7 @@ body {
 }
 
 .supervisor {
+	width: 21.825rem;
 	border-radius: .25rem;
 	border-top: 4px solid var(--cyan);
 	padding: 1rem;
