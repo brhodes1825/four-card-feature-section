@@ -87,7 +87,7 @@ body {
 	font-weight: 600;
 	color: var(--gray500);
 	text-align: left;
-	margin-right: 3rem;
+	margin-right: 2rem;
 }
 
 .supervisor p:last-of-type {
@@ -95,6 +95,7 @@ body {
 	font-weight: 200;
 	color: var(--gray500);
 	text-align: left;
+	margin-right: 3rem;
 	margin-bottom: 1rem;
 }
 
