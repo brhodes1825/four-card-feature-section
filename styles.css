@@ -36,13 +36,12 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 1rem;
-	border: 1px solid black;
 }
 
 .info {
 	width: 62.5rem;
 	height: 30%;
-	border: 1px solid black;
+	padding-bottom: 1rem;
 }
 
 .info p:first-of-type {
@@ -74,8 +73,7 @@ body {
 	height: 70%;
 	display: flex;
 	gap: 1rem;
-	border: 1px solid black;
-	margin: auto auto;
+	padding-top: 1rem;
 }
 
 .supervisor {
