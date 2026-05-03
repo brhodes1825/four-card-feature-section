@@ -113,6 +113,7 @@ body {
 }
 
 .team-builder {
+	width: 16rem; 
 	border-radius: .25rem;
 	border-top: 4px solid var(--red);
 	padding: 1rem;
@@ -132,7 +133,7 @@ body {
 	font-weight: 200;
 	color: var(--gray500);
 	text-align: left;
-	padding-right: 3rem;
+	padding-right: 1rem;
 }
 
 .team-builder img {
