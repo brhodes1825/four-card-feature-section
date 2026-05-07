@@ -247,7 +247,7 @@ body {
 
 	.supervisor {
 		padding: 1rem;
-		margin: 0 2rem;
+		margin: 0 2.5rem 1rem 2.5rem;
 		box-shadow: 0;
 	}
 
@@ -275,7 +275,7 @@ body {
 
 	.team-builder {
 		padding: 1rem;
-		margin: 0 2rem;
+		margin: 0 2.5rem 1rem 2.5rem;
 		box-shadow: 0;
 	}
 
@@ -299,7 +299,7 @@ body {
 
 	.karma {
 		padding: 1rem;
-		margin: 0 2rem;
+		margin: 0 2.5rem 1rem 2.5rem;
 		box-shadow: 0;
 	}
 
@@ -323,7 +323,7 @@ body {
 
 	.calculator {
 		padding: 1rem;
-		margin: 0 2rem;
+		margin: 0 2.5rem 1rem 2.5rem;
 		box-shadow: 0;
 	}
 
