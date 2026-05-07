@@ -247,7 +247,7 @@ body {
 
 	.supervisor {
 		padding: 1rem;
-		margin: 0 2.5rem 1rem 2.5rem;
+		margin: 0 2.7rem 1rem 2.7rem;
 	}
 
 	.supervisor p:first-of-type {
@@ -274,7 +274,7 @@ body {
 
 	.team-builder {
 		padding: 1rem;
-		margin: 0 2.5rem 1rem 2.5rem;
+		margin: 0 2.7rem 1rem 2.7rem;
 	}
 
 	.team-builder p:first-of-type {
@@ -297,7 +297,7 @@ body {
 
 	.karma {
 		padding: 1rem;
-		margin: 0 2.5rem 1rem 2.5rem;
+		margin: 0 2.7rem 1rem 2.7rem;
 	}
 
 	.karma p:first-of-type {
@@ -320,7 +320,7 @@ body {
 
 	.calculator {
 		padding: 1rem;
-		margin: 0 2.5rem 1rem 2.5rem;
+		margin: 0 2.7rem 1rem 2.7rem;
 		box-shadow: 0;
 	}
 
