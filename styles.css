@@ -247,7 +247,7 @@ body {
 
 	.supervisor {
 		padding: 1rem;
-		margin: 0;
+		margin: 2rem 0;
 		box-shadow: 0;
 	}
 
@@ -272,5 +272,78 @@ body {
 	.column2 {
 		gap: 0;
 	}
+
+	.team-builder {
+		padding: 1rem;
+		margin: 2rem 0;
+		box-shadow: 0;
+	}
+
+	.team-builder p:first-of-type {
+		font-size: .938rem;
+	}
+
+	.team-builder p:last-of-type {
+		padding-right: 1rem;
+		margin-bottom: 1rem;
+	}
+
+	.team-builder img {
+		width: 2rem;
+		height: 2rem;
+		margin-top: 0;
+		margin-right: 0;
+		margin-bottom: .5rem;
+		margin-left: 12rem;
+	}
+
+	.karma {
+		padding: 1rem;
+		margin: 2rem 0;
+		box-shadow: 0;
+	}
+
+	.karma p:first-of-type {
+		font-size: .938rem;
+	}
+
+	.karma p:last-of-type {
+		padding-right: 1rem;
+		margin-bottom: 1rem;
+	}
+
+	.karma img {
+		width: 2rem;
+		height: 2rem;
+		margin-top: 0;
+		margin-right: 0;
+		margin-bottom: .5rem;
+		margin-left: 12rem;
+	}
+
+	.calculator {
+		padding: 1rem;
+		margin: 2rem 0;
+		box-shadow: 0;
+	}
+
+	.calculator p:first-of-type {
+		font-size: .938rem;
+	}
+
+	.calculator p:last-of-type {
+		padding-right: 1rem;
+		margin-bottom: 1rem;
+	}
+
+	.calculator img {
+		width: 2rem;
+		height: 2rem;
+		margin-top: 0;
+		margin-right: 0;
+		margin-bottom: .5rem;
+		margin-left: 12rem;
+	}
+
 	
 }
